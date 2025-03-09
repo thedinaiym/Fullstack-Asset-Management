@@ -1,0 +1,6 @@
+[submodule "backend_flutter"]
+	path = backend_flutter
+	url = https://github.com/thedinaiym/Asset-Management-Backend.git
+[submodule "frontend_flutter"]
+	path = frontend_flutter
+	url = https://github.com/thedinaiym/Asset-Management-Frontend.git
